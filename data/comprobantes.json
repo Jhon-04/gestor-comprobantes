@@ -10,5 +10,11 @@
         "proveedor": "Cesar",
         "monto": 800.0,
         "fecha": "2025-04-16"
+    },
+    {
+        "tipo": "Factura",
+        "proveedor": "Urcia",
+        "monto": 555.0,
+        "fecha": "2025-04-16"
     }
 ]
