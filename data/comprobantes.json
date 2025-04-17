@@ -16,5 +16,17 @@
         "proveedor": "Urcia",
         "monto": 555.0,
         "fecha": "2025-04-16"
+    },
+    {
+        "tipo": "Factura",
+        "proveedor": "Iparraguirre",
+        "monto": 5000.0,
+        "fecha": "2025-04-16"
+    },
+    {
+        "tipo": "Factura",
+        "proveedor": "Holaaaaaaa",
+        "monto": 66454.0,
+        "fecha": "2025-04-16"
     }
 ]
