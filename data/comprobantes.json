@@ -1,0 +1,8 @@
+[
+    {
+        "tipo": "Factura",
+        "proveedor": "Jhon",
+        "monto": 950.0,
+        "fecha": "2025-04-16"
+    }
+]
